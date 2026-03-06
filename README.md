@@ -1,1 +1,1 @@
-# simple-prohram
+# simple-program
